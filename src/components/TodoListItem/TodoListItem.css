@@ -1,0 +1,31 @@
+.done {
+    text-decoration: line-through;
+}
+
+.bold-marked-text {
+    font-weight: bold;
+    color: steelblue;
+}
+
+.pointer {
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin-right: 4px;
+    box-sizing: border-box;
+}
+
+.btnz-group {
+    display: flex;
+}
+
+.sukaaa {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.red {
+    color: red;
+}

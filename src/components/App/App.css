@@ -1,0 +1,10 @@
+.search-bar {
+    display: flex;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.app {
+    max-width: 70%;
+}
+

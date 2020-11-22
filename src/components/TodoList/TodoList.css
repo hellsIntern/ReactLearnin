@@ -1,0 +1,8 @@
+.todo-list .list-group-item {
+    padding: 8px;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
